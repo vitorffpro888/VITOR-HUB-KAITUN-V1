@@ -1,6 +1,6 @@
 
 print("https://discord.gg/MDt5HNQ2")
-toclipboard("https://discord.gg/aUd8umqUKu")
+toclipboard("https://discord.gg/MDt5HNQ2")
 if game:GetService("ReplicatedStorage").Effect.Container:FindFirstChild("Death") then
 	game:GetService("ReplicatedStorage").Effect.Container.Death:Destroy()
 end
